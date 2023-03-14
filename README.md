@@ -10,7 +10,7 @@
 
 * Data Analysis
   1. Genres of games preferred in each region
-  <img src="https://user-images.githubusercontent.com/97582403/224658723-82ce8d7b-8829-4fdb-be16-fec51840e338.png"  width="550" height="300">
+  <img src="https://user-images.githubusercontent.com/97582403/225011336-d1d77d80-3be4-4ed6-8054-e7fca0b8f4ad.png"  width="550" height="300">
   <br>
   
   2. Trends of games by year
@@ -18,7 +18,7 @@
   <br>
   
   3. Analysis of popular games
-  <img src="https://user-images.githubusercontent.com/97582403/224659906-af971e79-7ed5-42bb-a5bc-b050c62eac1c.png"  width="900" height="400">
+  <img src="https://user-images.githubusercontent.com/97582403/225011471-7a19f52c-454f-4986-9999-2c1cad0095fc.png"  width="900" height="400">
   <br>
 
 
